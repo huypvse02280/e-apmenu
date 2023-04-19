@@ -53,8 +53,8 @@ class AuthService extends AppService {
                         "Google" => [
                             "enabled" => true,
                             "keys" => [
-                                "id" => "575586151660-5qvaq3i7jgiajfi1lcb1on2qvrh99f83.apps.googleusercontent.com",
-                                "secret" => "V2CJwmfmiE4Jjmt2E7-_Ajzp"
+                                "id" => "74275007852-8jsa3rhpeeutmtmkjj47ltuchk15je6m.apps.googleusercontent.com",
+                                "secret" => "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"
                             ],
                             "scope" => "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/plus.login"
 

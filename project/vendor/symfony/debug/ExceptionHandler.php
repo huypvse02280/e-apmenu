@@ -257,7 +257,7 @@ EOF
                 <h1>$title</h1>
                 <p>$content</p>
                 <p class="sf-btn-load">
-                    <a class="btn btn-primary center-block" href="http://e-apmenu.jp">再読み込み</a>
+                    <a class="btn btn-primary center-block" href="http://menu.e-jomas.biz">再読み込み</a>
                 </p>
                 
             </div>
